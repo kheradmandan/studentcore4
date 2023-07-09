@@ -1,0 +1,65 @@
+﻿@model Students.Domain.Entities.Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="NationalCode" class="control-label"></label>
+                <input asp-for="NationalCode" class="form-control" />
+                <span asp-validation-for="NationalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+          
+            <div class="form-group">
+                <label asp-for="CI_FieldStudentId" class="control-label"></label>
+                <select asp-for="CI_FieldStudentId" class ="form-control" asp-items="ViewBag.CI_FieldStudentId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script type="text/javascript">
+
+
+    $.validator.addMethod("ValidationNationalCode",
+       function (value, element, param) {
+           return !/Pus\**|F\**k/i.test(value);
+       });
+
+    $.validator.unobtrusive.adapters.add("ValidationNationalCode", {},
+        function (options) {
+            options.rules["ValidationNationalCode"] = true;
+            options.messages["ValidationNationalCode"] = options.message;
+        });
+
+</script>

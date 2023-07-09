@@ -1,0 +1,213 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Students
+build_property.RootNamespace = Students
+build_property.ProjectDir = C:\D\back\toplearn 2020\mvc\Students\Students\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\D\back\toplearn 2020\mvc\Students\Students
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Acount/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldCourse/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRDb3Vyc2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldCourse/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRDb3Vyc2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldCourse/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRDb3Vyc2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldCourse/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRDb3Vyc2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldCourse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRDb3Vyc2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldStudent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRTdHVkZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldStudent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRTdHVkZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldStudent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRTdHVkZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldStudent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRTdHVkZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_FieldStudent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfRmllbGRTdHVkZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CI_Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0lfUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CourseStudents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CourseStudents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CourseStudents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CourseStudents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/CourseStudents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Shared/_MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NeUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Teachers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D/back/toplearn 2020/mvc/Students/Students/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w8cysbospc
